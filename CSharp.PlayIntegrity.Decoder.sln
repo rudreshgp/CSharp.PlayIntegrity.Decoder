@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp.PlayIntegrity.Decoder", "CSharp.PlayIntegrity.Decoder\CSharp.PlayIntegrity.Decoder.csproj", "{0F0C63DB-6EC9-49EC-B584-BF77EC68F650}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp.PlayIntegrity.Decoder.Domain", "CSharp.PlayIntegrity.Decoder.Domain\CSharp.PlayIntegrity.Decoder.Domain.csproj", "{977FD448-580B-4A05-B169-23C577B33A77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F0C63DB-6EC9-49EC-B584-BF77EC68F650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F0C63DB-6EC9-49EC-B584-BF77EC68F650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F0C63DB-6EC9-49EC-B584-BF77EC68F650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F0C63DB-6EC9-49EC-B584-BF77EC68F650}.Release|Any CPU.Build.0 = Release|Any CPU
+		{977FD448-580B-4A05-B169-23C577B33A77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{977FD448-580B-4A05-B169-23C577B33A77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{977FD448-580B-4A05-B169-23C577B33A77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{977FD448-580B-4A05-B169-23C577B33A77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1C0B777-425A-43BB-894C-20337DF9F982}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "CSharp.PlayIntegrity.Decoder": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
